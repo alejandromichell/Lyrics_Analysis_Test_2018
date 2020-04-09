@@ -1,1 +1,1 @@
-Initial Lyric Analysis; NLP Tools
+Scoping Lyrics for Analysis;
